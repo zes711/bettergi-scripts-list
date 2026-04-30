@@ -1,33 +1,53 @@
 {
   "info": {
-    "name": "07-劫波莲-觉王之殿-3个",
-    "type": "collect",
-    "version": "1.0",
-    "description": "",
-    "bgi_version": "0.42.0",
     "authors": [
       {
-        "name": "lifrom",
-        "links": "https://github.com/pkjsjq"
+        "links": "https://github.com/pkjsjq",
+        "name": "lifrom"
+      },
+      {
+        "links": "",
+        "name": "大帅比"
       }
-    ]
+    ],
+    "bgi_version": "0.45.0",
+    "description": "直行会卡死，往右边绕了一下",
+    "enable_monster_loot_split": false,
+    "last_modified_time": 1777525092925,
+    "map_match_method": "",
+    "map_name": "Teyvat",
+    "name": "07-劫波莲-觉王之殿-3个",
+    "tags": [],
+    "type": "collect",
+    "version": "1.0"
   },
   "positions": [
     {
-      "id": 1,
       "action": "",
+      "action_params": "",
+      "id": 1,
       "move_mode": "walk",
       "type": "teleport",
-      "x": 3484.48,
-      "y": -608.26
+      "x": 3484.4799999999996,
+      "y": -608.2600000000002
     },
     {
+      "action": "",
+      "action_params": "",
       "id": 2,
+      "move_mode": "walk",
+      "type": "path",
+      "x": 3469.482975331837,
+      "y": -621.75
+    },
+    {
       "action": "nahida_collect",
+      "action_params": "",
+      "id": 3,
       "move_mode": "walk",
       "type": "target",
-      "x": 3451.4,
-      "y": -628.92
+      "x": 3451.3999999999996,
+      "y": -628.9200000000001
     }
   ]
 }
