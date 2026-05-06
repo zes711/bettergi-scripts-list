@@ -1,5 +1,5 @@
 {
-  "time": "20260430101056",
+  "time": "20260504194245",
   "url": "https://github.com/babalae/bettergi-scripts-list/archive/refs/heads/main.zip",
   "file": "repo.json",
   "indexes": [
@@ -20495,17 +20495,20 @@
                             {
                               "name": "lifrom",
                               "link": "https://github.com/pkjsjq"
+                            },
+                            {
+                              "name": "大帅比"
                             }
                           ],
-                          "description": "",
+                          "description": "第一个采集点位往里挪了一下，否则容易冲下坡",
                           "tags": [
-                            "bgi≥0.42.0",
+                            "bgi≥0.52.0",
                             "地方特产",
                             "须弥",
                             "劫波莲",
                             "纳西妲"
                           ],
-                          "lastUpdated": "2026-04-15 19:52:58"
+                          "lastUpdated": "2026-05-01 12:59:34"
                         },
                         {
                           "name": "07-劫波莲-觉王之殿-3个.json",
@@ -20516,17 +20519,20 @@
                             {
                               "name": "lifrom",
                               "link": "https://github.com/pkjsjq"
+                            },
+                            {
+                              "name": "大帅比"
                             }
                           ],
-                          "description": "",
+                          "description": "直行会卡死，往右边绕了一下",
                           "tags": [
-                            "bgi≥0.42.0",
+                            "bgi≥0.52.0",
                             "地方特产",
                             "须弥",
                             "劫波莲",
                             "纳西妲"
                           ],
-                          "lastUpdated": "2026-04-15 19:52:58"
+                          "lastUpdated": "2026-05-01 12:59:34"
                         },
                         {
                           "name": "08-劫波莲-须弥城西边-7个.json",
@@ -98513,7 +98519,7 @@
         {
           "name": "AAA-Artifacts-Bulk-Supply",
           "type": "directory",
-          "version": "2.4.1",
+          "version": "2.4.2",
           "author": "mno",
           "authors": [
             {
@@ -98529,7 +98535,7 @@
           "tags": [
             "狗粮"
           ],
-          "lastUpdated": "2026-04-19 06:20:12"
+          "lastUpdated": "2026-05-02 07:32:44"
         },
         {
           "name": "ABGIHoui",
@@ -98601,7 +98607,7 @@
         {
           "name": "AbundantOre",
           "type": "directory",
-          "version": "0.31",
+          "version": "0.32",
           "author": "芝士贝果",
           "authors": [
             {
@@ -98613,7 +98619,7 @@
           "tags": [
             "bgi≥0.60.0"
           ],
-          "lastUpdated": "2026-04-17 03:03:41"
+          "lastUpdated": "2026-05-04 21:42:17"
         },
         {
           "name": "AcceleratedEditionSwitchParty",
@@ -98823,7 +98829,7 @@
         {
           "name": "AutoArtifacts_A_B_Extra",
           "type": "directory",
-          "version": "2.5.5",
+          "version": "2.5.6",
           "author": "Yang-z",
           "authors": [
             {
@@ -98833,9 +98839,9 @@
           ],
           "description": "狗粮ABE路线，自动拾取分解~|~圣遗物狗粮AB及额外路线，自动轮换，自动分解，就近恢复。",
           "tags": [
-            "bgi≥0.45.1"
+            "bgi≥0.57.0"
           ],
-          "lastUpdated": "2025-10-01 13:50:46"
+          "lastUpdated": "2026-05-03 22:36:06"
         },
         {
           "name": "AutoBackpackCleaner",
@@ -99075,7 +99081,7 @@
         {
           "name": "AutoFriendshipFight",
           "type": "directory",
-          "version": "1.5.3",
+          "version": "1.5.4",
           "author": "秋云",
           "authors": [
             {
@@ -99093,7 +99099,7 @@
             "鳄鱼",
             "兽肉"
           ],
-          "lastUpdated": "2026-04-28 12:31:15"
+          "lastUpdated": "2026-05-01 21:14:52"
         },
         {
           "name": "AutoFriendshipFowl",
@@ -99124,7 +99130,7 @@
         {
           "name": "AutoHoeingOneDragon",
           "type": "directory",
-          "version": "2.8.2",
+          "version": "2.9.0",
           "author": "mno",
           "authors": [
             {
@@ -99138,7 +99144,7 @@
           ],
           "description": "锄地一条龙~|~一站式解决自动化锄地，支持只拾取狗粮，请仔细阅读README.md后使用",
           "tags": [],
-          "lastUpdated": "2026-04-22 08:24:17"
+          "lastUpdated": "2026-05-01 19:30:10"
         },
         {
           "name": "AutoInstructorLock",
@@ -99752,19 +99758,19 @@
         {
           "name": "LinneaMining",
           "type": "directory",
-          "version": "0.1",
-          "author": "zaodonganqi",
+          "version": "0.2.0",
+          "author": "躁动的氨气",
           "authors": [
             {
-              "name": "zaodonganqi",
+              "name": "躁动的氨气",
               "link": "https://github.com/zaodonganqi"
             }
           ],
           "description": "莉奈娅挖矿一条龙~|~不分矿种，稳定刷新即挖",
           "tags": [
-            "bgi≥0.61.0"
+            "bgi≥0.60.2"
           ],
-          "lastUpdated": "2026-04-29 22:49:04"
+          "lastUpdated": "2026-05-01 21:30:13"
         },
         {
           "name": "MiliastraExperiencePlayback",
@@ -100001,7 +100007,7 @@
         {
           "name": "SetTime",
           "type": "directory",
-          "version": "1.0",
+          "version": "1.1",
           "author": "Tim",
           "authors": [
             {
@@ -100022,7 +100028,7 @@
           ],
           "description": "调整游戏时间~|~用于调整游戏时间",
           "tags": [],
-          "lastUpdated": "2026-01-12 15:27:06"
+          "lastUpdated": "2026-05-02 09:37:54"
         },
         {
           "name": "SkipMonthlyCard",
@@ -100044,7 +100050,7 @@
         {
           "name": "SwitchAccountMultipleMode",
           "type": "directory",
-          "version": "2.0",
+          "version": "2.1",
           "author": "起个名字好难的喵",
           "authors": [
             {
@@ -100069,6 +100075,9 @@
             {
               "name": "空",
               "link": "https://pd.qq.com/g/620449244035027412/post/B_022e6a69a93f0a001441152193488791090X60?showGuild=1&errCode=0&asideType=Full"
+            },
+            {
+              "name": "檬"
             }
           ],
           "description": "切换账号多模式~|~多种模式的切换账号，有下拉列表、填写账号密码OCR操作或键鼠操作，目前支持B服/国际服但不完整\n免责申明：所有的账号密码均保存在本地，请使用者妥善保管账号密码，请勿外泄账号密码。若因使用此脚本导致的账号泄露、封禁问题与脚本作者无关。",
@@ -100078,7 +100087,7 @@
             "鼠标点击",
             "OCR"
           ],
-          "lastUpdated": "2026-03-31 12:38:40"
+          "lastUpdated": "2026-05-01 19:23:52"
         },
         {
           "name": "TCGQuickProficiency",
@@ -100164,7 +100173,7 @@
         {
           "name": "WeeklyBoss",
           "type": "directory",
-          "version": "3.2.1",
+          "version": "3.2.2",
           "author": "柒叶子",
           "authors": [
             {
@@ -100174,7 +100183,7 @@
           ],
           "description": "周本一条龙~|~https://www.bilibili.com/video/BV1F2uvz3E4K/?vd_source=9dfaf88af48ecc0ff95a41f1145af7a2",
           "tags": [],
-          "lastUpdated": "2026-04-10 19:21:03"
+          "lastUpdated": "2026-05-04 19:34:22"
         },
         {
           "name": "WeeklyThousandStarRealm",
@@ -100551,7 +100560,7 @@
         {
           "name": "批量讨伐角色养成材料BOSS",
           "type": "directory",
-          "version": "0.6.1",
+          "version": "0.6.2",
           "author": "DarkFlameMaster",
           "authors": [
             {
@@ -100561,7 +100570,7 @@
           ],
           "description": "批量讨伐角色养成材料BOSS~|~一次性配置多个角色材料的boss，体力不足时保存进度，每次运行时断点续打",
           "tags": [],
-          "lastUpdated": "2026-04-12 12:36:05"
+          "lastUpdated": "2026-05-03 22:11:16"
         },
         {
           "name": "日志分析工具",
