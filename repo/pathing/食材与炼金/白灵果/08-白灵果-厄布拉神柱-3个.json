@@ -10,7 +10,7 @@
         "name": "大帅比"
       }
     ],
-    "bgi_version": "0.45.0",
+    "bgi_version": "0.52.0",
     "description": "",
     "enable_monster_loot_split": false,
     "last_modified_time": 1778038085842,
@@ -28,7 +28,7 @@
       "id": 1,
       "move_mode": "walk",
       "type": "teleport",
-      "x": 10280.49817079839,
+      "x": 10280.4982,
       "y": 5757.5625
     },
     {
@@ -37,8 +37,8 @@
       "id": 2,
       "move_mode": "run",
       "type": "path",
-      "x": 10282.265025142216,
-      "y": 5725.078125
+      "x": 10282.265,
+      "y": 5725.0781
     },
     {
       "action": "",
